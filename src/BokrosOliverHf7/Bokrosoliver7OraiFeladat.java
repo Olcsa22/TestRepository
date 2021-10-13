@@ -59,5 +59,8 @@ public class Bokrosoliver7OraiFeladat
         {
             System.out.println("a szelvény nem nyert");
         }
+
+        //Komment hozzáadva
+
     }
 }
