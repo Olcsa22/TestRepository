@@ -61,6 +61,7 @@ public class Bokrosoliver7OraiFeladat
         }
 
         //Komment hozzáadva
+		//Újabbb komment a diff parancs demonstrálására
 
     }
 }
